@@ -6,70 +6,71 @@
 </head>
 
 <body bgcolor="#FFCCCC" leftmargin="60">
-<br>
-<font color="#990099">
-<h1><center><strong>HIT&nbsp;Miss&nbsp;Coding&nbsp;商&nbsp;城</strong></center></h1>
-</font>
-<table>
-<tr align="center">
-<td><font size="+1">已登录</a></font> </td>
-</tr>
+<table align="center">
+<tr><a target="_blank" href="CLOUTH.php"><img src="e.jpg" width="1280" height="260"/></a></tr>
 </table>
 <table>
+<tr align="center">
+<td><form name="input" action="goodslist.php" method="get">
+<input type="submit" value="选择一个类别" />
+</form></td>
+</tr>
+</table>
+<table align="center">
 <tr>
-<td><a target="_blank" href="CLOUTH.php"><img src="yifu.jpg" width="300" height="250"/></a></td>
-<td><a target="_blank" href="teacher.php"><img src="wenju.jpg" width="300" height="250"/></a></td>
-<td><a target="_blank" href="teacher.php"><img src="tushu.jpg" width="300" height="250"/></a></td>
-<td><a target="_blank" href="teacher.php"><img src="baihuo.jpg" width="300" height="250"/></a></td>
+<td><a target="_blank" href="CLOUTH.php"><img src="shouye/yifu.jpg" width="300" height="250"/></a></td>
+<td><a target="_blank" href="pen.php"><img src="shouye/wenju.jpg" width="300" height="250"/></a></td>
+<td><a target="_blank" href="book.php"><img src="shouye/tushu.jpg" width="300" height="250"/></a></td>
+<td><a target="_blank" href="dayly.php"><img src="shouye/baihuo.jpg" width="300" height="250"/></a></td>
 </tr>
 <tr>
 <td><center>
 <form name="input" action="CLOUTH.php" method="get">
 <input type="submit" value="服装" />
-</center>
+</form></center>
 </td>
 <td><center>
-<form name="input" action="teacher.php" method="get">
+<form name="input" action="pen.php" method="get">
 <input type="submit" value="文具" />
-</center>
+</form></center>
 </td>
 <td><center>
-<form name="input" action="teacher.php" method="get">
+<form name="input" action="book.php" method="get">
 <input type="submit" value="图书" />
-</center>
+</form></center>
 </td>
 <td><center>
-<form name="input" action="teacher.php" method="get">
+<form name="input" action="dayly.php" method="get">
 <input type="submit" value="日用品" />
-</center>
+</form></center>
 </td>
 </tr>
 <tr>
-<td><img src="dianzi.jpg" width="300" height="250"/></td>
-<td><a target="_blank" href="study.php"><img src="biji.jpg" width="300" height="250"/></a></td>
-<td><img src="shipin.jpg" width="300" height="250"/></td>
-<td><img src="shiyou.jpg" width="300" height="250"/></td>
+<td><img src="shouye/dianzi.jpg" width="300" height="250"/></td>
+<td><img src="shouye/biji.jpg" width="300" height="250"/></td>
+<td><img src="shouye/shipin.jpg" width="300" height="250"/></td>
+<td><img src="shouye/ren.jpg" width="300" height="250"/></td>
 </tr>
 <tr>
 <td><center>
-<form name="input" action="teacher.php" method="get">
+<form name="input" action="electric.php" method="get">
 <input type="submit" value="电子产品" />
-</center>
+</form></center>
 </td>
 <td><center>
 <form name="input" action="study.php" method="get">
 <input type="submit" value="笔记" />
-</center>
+</form></center>
 </td>
 <td><center>
-<form name="input" action="teacher.php" method="get">
+<form name="input" action="lovely.php" method="get">
 <input type="submit" value="饰品" />
-</center>
+</form></center>
 </td>
 <td><center>
-<form name="input" action="teacher.php" method="get">
+<form name="input" action="friend.php" method="get">
 <input type="submit" value="室友" />
-</center>
+</form></center>
 </td>
 </tr>
 </table>

@@ -5,14 +5,14 @@
 <title>Âò¼ÒÑ¡Ïî</title>
 </head>
 
-<body>
+<body background="jiejie.jpg" leftmargin="490" topmargin="500">
 <table>
 <tr align="center">
 <center><td><form name="input" action="regis.php" method="get">
-<input type="submit" value="×¢²á" />
+<input type="submit" value="   ×¢     ²á   " />
 </form></td>
 <td><form name="input" action="denglu.php" method="get">
-<input type="submit" value="µÇÂ¼" />
+<input type="submit" value="   µÇ     Â¼   " />
 </form></td></center>
 </tr>
 </table>

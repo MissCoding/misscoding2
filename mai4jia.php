@@ -5,15 +5,15 @@
 <title>Âô¼ÒÑ¡Ïî</title>
 </head>
 
-<body>
+<body background="jiejie.jpg" leftmargin="490" topmargin="500">
 <table>
 <tr align="center">
-<td><form name="input" action="regis4.php" method="get">
-<input type="submit" value="×¢²á" />
+<center><td><form name="input" action="regis4.php" method="get">
+<input type="submit" value="   ×¢     ²á   " />
 </form></td>
 <td><form name="input" action="denglu4.php" method="get">
-<input type="submit" value="µÇÂ¼" />
-</form></td>
+<input type="submit" value="   µÇ     Â¼   " />
+</form></td></center>
 </tr>
 </table>
 </body>

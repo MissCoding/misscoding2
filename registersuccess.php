@@ -14,7 +14,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <title>无标题文档</title>
 </head>
 
-<body topmargin="100" background="09fa513d269759eeccc01477b3fb43166c22dffe.jpg">
+<body topmargin="450" background="jiejie.jpg">
 <font size="+3"face="方正剪纸简体"><center>注册成功--<a href='index1.php'>点击登陆</a></center></font> 
 
 </body>

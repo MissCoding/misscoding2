@@ -14,7 +14,7 @@
 <tr>
 	<td>
 		<table align="center">
-		<tr><td><img src="yifuaa.jpg" width="400" height="600" align="top" /></td></tr>
+		<tr><td><img src="goods/cloutha/yifuaa.jpg" width="400" height="600" align="top" /></td></tr>
 		</table>
 	</td>
 	<td>

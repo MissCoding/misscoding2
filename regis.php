@@ -4,7 +4,7 @@
 <link type="text/css" rel="stylesheet" href="/style/style.css">
 <script src="zhuceoo.js"></script>
 </head>
-<body bgcolor="#FFCCCC" text="#003333">
+<body background="jjp.jpg" text="#003333">
 <br>
 <font color="#006633">
 <h1><center><strong>HIT&nbsp;Miss&nbsp;Codeing&nbsp;ил&nbsp;Ёг</strong></center></h1>

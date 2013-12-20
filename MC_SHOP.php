@@ -6,10 +6,10 @@
 </head>
 
 <body bgcolor="#FFCCCC" leftmargin="60">
-<br>
-<font color="#990099">
-<h1><center><strong>HIT&nbsp;Miss&nbsp;Coding&nbsp;ил&nbsp;Ёг</strong></center></h1>
-</font>
+<table align="center">
+<tr><a target="_blank" href="CLOUTH.php"><img src="e.jpg" width="1280" height="260"/></a></tr>
+</table>
+
 <table>
 <tr align="center">
 <td><form name="input" action="maijia.php" method="get">
@@ -22,10 +22,10 @@
 </table>
 <table align="center">
 <tr>
-<td><a target="_blank" href="CLOUTH.php"><img src="yifu.jpg" width="300" height="250"/></a></td>
-<td><a target="_blank" href="pen.php"><img src="wenju.jpg" width="300" height="250"/></a></td>
-<td><a target="_blank" href="book.php"><img src="tushu.jpg" width="300" height="250"/></a></td>
-<td><a target="_blank" href="dayly.php"><img src="baihuo.jpg" width="300" height="250"/></a></td>
+<td><a target="_blank" href="CLOUTH.php"><img src="shouye/yifu.jpg" width="300" height="250"/></a></td>
+<td><a target="_blank" href="pen.php"><img src="shouye/wenju.jpg" width="300" height="250"/></a></td>
+<td><a target="_blank" href="book.php"><img src="shouye/tushu.jpg" width="300" height="250"/></a></td>
+<td><a target="_blank" href="dayly.php"><img src="shouye/baihuo.jpg" width="300" height="250"/></a></td>
 </tr>
 <tr>
 <td><center>
@@ -50,10 +50,10 @@
 </td>
 </tr>
 <tr>
-<td><img src="dianzi.jpg" width="300" height="250"/></td>
-<td><img src="biji.jpg" width="300" height="250"/></td>
-<td><img src="shipin.jpg" width="300" height="250"/></td>
-<td><img src="shiyoumen.jpg" width="300" height="250"/></td>
+<td><img src="shouye/dianzi.jpg" width="300" height="250"/></td>
+<td><img src="shouye/biji.jpg" width="300" height="250"/></td>
+<td><img src="shouye/shipin.jpg" width="300" height="250"/></td>
+<td><img src="shouye/ren.jpg" width="300" height="250"/></td>
 </tr>
 <tr>
 <td><center>

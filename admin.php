@@ -3,10 +3,10 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
 <title>后台管理登录</title>
-<script src="teacher.js"></script>
+<script src="adj.js"></script>
 </head>
 
-<body bgcolor="#66CCCC" topmargin="100">
+<body bgcolor="#FFCCCC" topmargin="100">
 <br>
 <font color="#006633">
 <h1><center><strong>HIT&nbsp;Miss&nbsp;Codeing&nbsp;商&nbsp;城</strong></center></h1>
